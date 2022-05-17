@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhome"]=self["webpackChunkhome"]||[]).push([[876],{1876:function(t,e,a){a.r(e),a.d(e,{default:function(){return f}});var n=a(3396);const r={class:"home"},s=(0,n.Uk)(" sly cat girl - Official Site "),i=(0,n._)("img",{class:"w-7/12 mx-auto my-3",alt:"Artist Photo",src:"/img/artist_photo.jpg"},null,-1),o=[s,i];function c(t,e,a,s,i,c){return(0,n.wg)(),(0,n.iD)("div",r,o)}var u=(0,n.aZ)({name:"Home"}),l=a(89);const m=(0,l.Z)(u,[["render",c]]);var f=m}}]);
+//# sourceMappingURL=876.211374b3.js.map
