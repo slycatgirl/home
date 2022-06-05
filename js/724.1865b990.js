@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkhome"]=self["webpackChunkhome"]||[]).push([[724],{3724:function(e,n,r){r.r(n),r.d(n,{default:function(){return s}});var a=r(3396);const i={class:"live"};function o(e,n,r,o,t,u){return(0,a.wg)(),(0,a.iD)("div",i," Live Page - Coming Soon... ")}var t=(0,a.aZ)({name:"Live"}),u=r(89);const c=(0,u.Z)(t,[["render",o]]);var s=c}}]);
-//# sourceMappingURL=724.1865b990.js.map
