@@ -1,7 +1,7 @@
 <template>
   <Main>
     <div class="home">
-      sly cat girl - Official Site
+      <h1 class="text-2xl font-bold">sly cat girl - Official Site</h1>
       <img class="w-7/12 max-w-2xl mx-auto my-3" alt="Artist Photo" src="/img/artist_photo.jpg" />
     </div>
   </Main>

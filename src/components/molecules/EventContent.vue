@@ -8,10 +8,6 @@
         <td class="td">{{ event.date }}</td>
       </tr>
       <tr>
-        <th class="th">TITLE</th>
-        <td class="td">{{ event.title }}</td>
-      </tr>
-      <tr>
         <th class="th">VENUE</th>
         <td class="td">{{ event.venue }}</td>
       </tr>

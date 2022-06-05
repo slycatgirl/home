@@ -14,7 +14,7 @@
       </nav>
     </header>
     <main class="min-h-[calc(100vh-50px)]"><slot></slot></main>
-    <footer class="py-2 bg-slate-500 text-white text-sm">
+    <footer class="py-2 mt-4 bg-slate-500 text-white text-sm">
       <p class="copyright">&copy; sly cat girl {{ year }}</p>
     </footer>
   </div>
