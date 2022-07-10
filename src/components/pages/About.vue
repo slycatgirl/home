@@ -6,8 +6,8 @@
       <p>Member</p>
         <p class="flex justify-center my-2" v-for="member in members" :key="member.name">
           {{ `${member.name} [${member.part}]` }}
-          <IconButton :icon="['fab', 'instagram']" :url="member.instagram" />
-          <IconButton :icon="['fab', 'twitter']" :url="member.twitter" />
+          <IconButton class="ml-2" :icon="['fab', 'instagram']" :url="member.instagram" />
+          <IconButton class="ml-2" :icon="['fab', 'twitter']" :url="member.twitter" />
         </p>
         <p>(L&rarr;R)</p>
     </div>
