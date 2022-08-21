@@ -4,7 +4,7 @@
       <h1 class="text-2xl font-bold">MUSIC</h1>
       <!-- <img class="w-7/12 max-w-2xl mx-auto my-3" alt="Music" src="/img/music.jpg" /> -->
       <!-- <p class="mt-4">Music Page - Coming Soon...</p> -->
-      <div class="w-2/3 lg:w-2/5 mx-auto my-3 space-y-3">
+      <div class="w-2/3 md:w-1/3 mx-auto my-3 space-y-3">
         <MusicContent class="" v-for="music in MUSIC" :key="music.title" :music="music" />
       </div>
       <!-- 各DEMOサブスクリプションサービスにて配信中 :
