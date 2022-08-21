@@ -29,16 +29,22 @@ export default defineComponent({
   setup() {
     const MEMBERS = [
       {
+        name: "Taiki",
+        part: "Dr./Cho.",
+        instagram: "https://www.instagram.com/slycat_taiki/",
+        twitter: "https://twitter.com/slycat_taiki/",
+      },
+      {
         name: "みゆってぃ",
         part: "Gt./Vo.",
         instagram: "https://www.instagram.com/_mi_yu_te_/",
         twitter: "https://twitter.com/s2clxxx/",
       },
       {
-        name: "Taiki",
-        part: "Dr./Cho.",
-        instagram: "https://www.instagram.com/slycat_taiki/",
-        twitter: "https://twitter.com/slycat_taiki/",
+        name: "木原",
+        part: "Ba./Cho.",
+        instagram: "https://www.instagram.com/kiharrr/",
+        twitter: "https://twitter.com/kiharrr/",
       },
     ]
 
