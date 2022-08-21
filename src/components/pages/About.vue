@@ -43,7 +43,7 @@ export default defineComponent({
       {
         name: "木原",
         part: "Ba./Cho.",
-        instagram: "https://www.instagram.com/kiharrr/",
+        instagram: "https://www.instagram.com/kiharrraaa/",
         twitter: "https://twitter.com/kiharrr/",
       },
     ]
